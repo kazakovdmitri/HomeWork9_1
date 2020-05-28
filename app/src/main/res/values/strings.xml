@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWork9_1</string>
+    <string name="textview">Съешь ещё этих мягких французских булок, да выпей чаю</string>
+    <string name="mainText">Выберете стиль приложения</string>
+    <string name="btnGreen">Зеленый</string>
+    <string name="btnBlue">Синий</string>
+    <string name="btnBlack">Черный</string>
+    <string name="btnSetstyle">Установить стиль</string>
+
+
+</resources>
